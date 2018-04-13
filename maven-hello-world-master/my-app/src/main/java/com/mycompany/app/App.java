@@ -12,6 +12,8 @@ public class App
 	System.out.println("Enter the number 2 :");
 	n2=sc.nextInt();
 	System.out.println("The Addition of the two numbers is :"+(n1+n2));
+	System.out.println("The Subtratcion of the two numbers is :"+(n1-n2));
+
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
         System.out.println("Check Our Project at https://github.com/vedantsakhardande/JenkinsProject");
